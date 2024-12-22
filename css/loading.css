@@ -35,7 +35,7 @@ body:before {
 	width:150px;
 	height:150px;
 	background:transparent;
-	border:3px solid #3c3c3c;
+	border:3px solid #d1dced ;
 	border-radius:50%;
 	display:flex;
 	flex-direction:column;
@@ -43,7 +43,7 @@ body:before {
 	justify-content:center;
 	text-align:center;
 	font-family:sans-serif;
-	color:#d5c999;
+	color:#dfe9d9;
 	letter-spacing:3px;
 	text-transform:uppercase;
 	text-shadow:0 0 10px #fff000;
@@ -60,7 +60,7 @@ body:before {
 	border-top:3px solid #d5c999;
 	border-right:3px solid #d5c999;
 	border-radius:50%;
-	animation:animateC 2s linear infinite;
+	animation:animateC 1s linear infinite;
 }
 #indicator > div {
 	max-width:120px;
